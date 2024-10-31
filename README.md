@@ -24,3 +24,4 @@ Fusiona los cambios de la rama especificada con la rama actual. Esto se utiliza 
 git branch -d nombre-de-la-rama
 Elimina una rama que ya no es necesaria. Esto ayuda a mantener el repositorio limpio y organizado.
 
+
